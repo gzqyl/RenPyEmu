@@ -11,6 +11,12 @@ The App ID is "6751824770"
 # ZIP DOWNLoad ROM FILE IS [RenPyEmuDemo-1.0-pc.zip](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.zip)
 [RenPyEmuDemo-1.0-pc.zip](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.zip) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
 
+# 7Z DOWNLoad ROM FILE IS [RenPyEmuDemo-1.0-pc.7z](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.7z)
+[RenPyEmuDemo-1.0-pc.7z](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.7z) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
+
+# RAR DOWNLoad ROM FILE IS [RenPyEmuDemo-1.0-pc.rar](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.rar)
+[RenPyEmuDemo-1.0-pc.rar](https://github.com/gzqyl/RenPyEmu/releases/download/v1.0.1/RenPyEmuDemo-1.0-pc.rar) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
+
 # For License Documents, you could get it here [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)
 
 # How to test?
